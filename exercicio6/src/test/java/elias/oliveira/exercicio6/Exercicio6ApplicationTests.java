@@ -1,10 +1,10 @@
-package nunes.elias.exercicio5;
+package elias.oliveira.exercicio6;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Exercicio5ApplicationTests {
+class Exercicio6ApplicationTests {
 
 	@Test
 	void contextLoads() {
